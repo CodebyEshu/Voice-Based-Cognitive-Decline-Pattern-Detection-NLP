@@ -1,0 +1,11 @@
+file,hesitation_count,pause_count,speech_rate,pitch_variability,semantic_anomaly,vague_word_count,incomplete_sentence,lost_words,isof_risk,isof_risk_label,kmeans_cluster,kmeans_risk_label
+JackHanna_10,0,0,4.032559130748896,951.2781,0.1920750141143798,0,0,3,1,Normal,0,Normal
+JimmyFratianno_0,0,0,2.249602111191218,1031.1866,0.160838782787323,1,0,2,1,Normal,0,Normal
+RobinWilliams_0,0,0,3.0579008757424404,726.35754,0.1610065698623657,0,0,8,-1,At Risk,0,Normal
+SteveLawrence_15,0,0,3.2450691826136446,826.5473,0.1359721422195434,0,0,0,1,Normal,0,Normal
+aileenhernandez_5_2,0,0,3.1777777777777776,737.43274,0.1117339134216308,0,0,0,1,Normal,0,Normal
+antonyflew_10,0,0,2.022222222222222,1068.4227,0.1453295946121215,0,0,0,1,Normal,0,Normal
+daningram_15,0,0,3.0869565217391304,1098.025,0.1532527208328247,0,0,0,1,Normal,0,Normal
+georgeklein_5_2,0,0,4.142857142857143,944.5293,0.1352375149726867,0,0,0,1,Normal,0,Normal
+paulhornung_10,0,0,3.0,983.8701,0.0963920354843139,1,0,2,1,Normal,0,Normal
+terryjones_5,1,1,3.0454545454545454,1074.952,0.0986542105674743,0,0,2,-1,At Risk,1,At Risk
